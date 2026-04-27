@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi , I am Vishnu Goswami
 
-<!--
-**vishnugoswami-cyber/vishnugoswami-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student
+Aspiring SOC Analyst
+Currently completing TryHackMe SOC Level 1 & 2 
 
-Here are some ideas to get you started:
+## Tools I Am Learning
+- Splunk
+- Wireshark
+- Snort
+- Linux CLI
+- Nmap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You Will Find Here
+- TryHackMe room write-ups
+- Notes from my cybersecurity learning journey
+
+## Connect With Me
+- TryHackMe : [https://tryhackme.com/p/vishnugoswami9548]
+- linkedIn : [https://www.linkedin.com/in/vishnu-goswami-8a49313a4]
+
+  I believe in Learning by doing.
+  Currently on a mission to land my first SOC Analyst internship !
+
